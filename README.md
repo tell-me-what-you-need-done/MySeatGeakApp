@@ -1,4 +1,4 @@
-# MySeatGeakApp
+# MySeatGeekApp
 This is an example iOS application written in Swift. The application is quite simple and yet it demostrates a number of iOS API's and techniques.
 
 The basic code flow goes like this...
